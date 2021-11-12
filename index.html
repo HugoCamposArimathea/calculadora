@@ -16,32 +16,32 @@
         <section class="container">
             <div class="display"><p id="output">0</p></div>
             <div class="row1">
-                <button id="clear">C</button> 
-                <button id="divide">/</button>
-                <button id="rest">%</button>
+                <button id="clear" onclick="forClear()">C</button> 
+                <button id="divide" onclick="perc()">/</button>
+                <button id="rest" value="%" onclick="fordisplay('%')">%</button>
             </div>  
             <div class="row2">
-                <button id="seven">7</button> 
-                <button id="eight">8</button> 
-                <button id="nine">9</button> 
-                <button id="multiplicar">*</button>
+                <button id="seven" value="7" onclick="fordisplay('7')">7</button> 
+                <button id="eight" value="8" onclick="fordisplay('8')">8</button> 
+                <button id="nine" value="9"  onclick="fordisplay('9')">9</button> 
+                <button id="multiplicar" value="*" onclick="fordisplay('*')">*</button>
             </div> 
             <div class="row3">
-                <button id="four">4</button> 
-                <button id="five">5</button> 
-                <button id="six">6</button> 
-                <button id="minus">-</button>
+                <button id="four" value="4" onclick="fordisplay('4')">4</button> 
+                <button id="five" value="5" onclick="fordisplay('5')">5</button> 
+                <button id="six" value="6" onclick="fordisplay('6')">6</button> 
+                <button id="minus" value="-" onclick="fordisplay('-')">-</button>
             </div> 
             <div class="row4">
-                <button id="one">1</button> 
-                <button id="two">2</button> 
-                <button id="three">3</button>
-                <button id="plus">+</button>
+                <button id="one" value="1" onclick="fordisplay('1')">1</button> 
+                <button id="two" value="2" onclick="fordisplay('2')">2</button> 
+                <button id="three" value="3" onclick="fordisplay('3')">3</button>
+                <button id="plus" value="+" onclick="fordisplay('+')">+</button>
             </div> 
             <div class="row5">
-                <button id="zero">0</button> 
-                <button id="dot">.</button> 
-                <button id="equal">=</button>
+                <button id="zero" value="0" onclick="fordisplay('0')">0</button> 
+                <button id="dot"value="." onclick="fordisplay('.')">.</button> 
+                <button id="equal" value="=" onclick="solve()">=</button>
             </div>
         </section>
     </main>
