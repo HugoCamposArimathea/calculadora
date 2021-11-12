@@ -54,6 +54,15 @@ button:active {
 }
 #clear {
     width: 138px;
+    background-color: #000000d8;
+    color: #fff;
+}
+#clear:hover {
+    background-color: rgb(182, 178, 178);
+    color: white;
+}
+#clear:active {
+    background-color: rgb(136, 136, 136);
 }
 #zero {
     width: 138px;
