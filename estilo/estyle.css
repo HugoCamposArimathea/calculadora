@@ -61,6 +61,10 @@ button:active {
 aside {
     margin-bottom: 10%;
 }
+.container-redes {
+    margin: 1% 0.5%;
+    padding-top: 1%;
+}
 footer {
     margin: 0;
     text-align: center;
