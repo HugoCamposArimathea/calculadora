@@ -1,10 +1,7 @@
 <div align="center">
 <h1>🖐 Olá, tudo bem? <br> <em>🖐 Hello, how are you? </em></h1> 
-<h4>Este e um projeto de calculadora simples em JavaScript, ela ainda não está 100%. Pretendo adicionar um histórico de operações feitas e adicionar KeyboardEvent também. Mas espero que goste de como está ficando, fique a vontade para olhar. 
-
-<br>
-<em>This is a project of a basic calculator build in JavaScript, it isn't 100%. I intend to add a history of operations and add keyboard events too. But, i hope you like it and feel free to take a look.</em>
-</h4>
+<h4>Este e um projeto de calculadora simples em JavaScript, ela ainda não está 100%. Pretendo adicionar um histórico de operações feitas e adicionar KeyboardEvent também. Mas espero que goste de como está ficando, fique a vontade para olhar.</h4>
+<h4><em>This is a project of a basic calculator built in JavaScript, it isn't 100%. I intend to add a history of operations and add keyboard events too. But, i hope you like it and feel free to take a look.</em></h4>
 
 <hr>
 
